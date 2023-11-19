@@ -1,0 +1,252 @@
+body {
+    margin: 0;
+    color: white;
+    background-color: #322D2D;
+    display: flex;
+    justify-content: space-around;
+    /* overflow-x: hidden; */
+}
+.whole_page {
+    
+}
+.main_page {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 {
+    justify-content: center;
+    text-align: left;
+    margin: 220px;
+    padding: auto;
+}
+.letters {
+    text-align: center;
+    padding-top: -150px;
+    width: 500px;
+}
+.get_to_know {
+    font-size: 70px;
+    text-align: center;
+}
+.MOOK {
+    font-size: 150px;
+    text-align: center;
+}
+.who_is_she{
+    font-size: 40px;
+    text-align: center;
+}
+.box2 {
+    margin: 95px;
+    margin-left: -170px;
+}
+.info {
+    margin-top: 350px;
+    margin-left: 80px;
+    display: flex;
+}
+.personal_info {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.profile {
+    height: 100px;
+    margin-right: 130px;
+    font-size: 120px;
+}
+.polaroid {
+    width: 500px;
+    margin-top: -25px;
+    margin-left: 170px;
+    /* transform: rotate(-5deg); */
+}
+.profile_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.personal_info2 {
+    margin-top: 30px;
+    padding-right: 135px;
+    text-align: end;
+}
+hr {
+    margin-top: 50px;
+    margin-right: 135px;
+    width: 475px;
+}
+.personal_info3 {
+    margin-top: 30px;
+    padding-right: 130px;
+    text-align: start;
+    line-height: 220%;
+}
+.interest_container {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    padding-left: 230px;
+    margin-top: 250px;
+}
+.interest{
+    margin-top: 120px;
+}
+.interest_lists {
+    margin-top: 170px;
+    margin-right: 180px;
+    margin-left: -200px;
+}
+
+
+.education_contact_container {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    margin-left: 230px;
+    margin-top: 180px;
+}
+.education_container {
+    line-height: 200%;
+}
+
+.education_image {
+    margin-top: 60px;
+}
+
+.education_list {
+    margin-top: 40px;
+    line-height: 200%;
+}
+.contact_container {
+    line-height: 200%;
+
+}
+.contact_list {
+    margin-top: 40px;
+    line-height: 200%;
+}
+
+.contact_image {
+    margin-top: 60px;
+}
+
+hr.vertical {
+    margin-top: 0px;
+    margin-left: 150px;
+    width: 0px;
+    height: 550px;
+    /* or height in PX */
+  }
+
+hr.horizontal2 {
+    justify-content: center;
+  }
+
+.achievement_container {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    margin-left: 230px;
+    margin-top: 150px;
+}
+
+.achievement_national_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.achievement {
+    height: 100px;
+    margin-right: 130px;
+    font-size: 99px;
+}
+
+hr.horizontal3 {
+    width: 710px;
+}
+
+.national_competition {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.achievement_info {
+    width: 620px;
+    height: 600px;
+    margin-top: 340px;
+    margin-left: -500px;
+    line-height: 60px;
+    justify-content: center;
+}
+
+.third_runner_up {
+    margin-bottom: -30px;
+}
+
+.horizontal4{
+    width: 600px;
+}
+
+.wrg_detail {
+    line-height: 50px;
+}
+
+.wrg_certificate {
+    margin-top: 340px;
+    margin-left: 20px;
+    justify-content: center;
+}
+
+.project_container {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    margin-left: 230px;
+    margin-top: 150px;
+}
+
+.project_images{
+    display: flex;
+    row-gap: 50px;
+}
+
+.แรงงาน {
+    
+}
+
+.project_info {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.project {
+    height: 100px;
+    margin-right: 130px;
+    font-size: 110px;
+    margin-left: 260px;
+}
+
+.autopilot {
+    text-align: end;
+}
+
+
+
+.certificates_container {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 230px;
+    margin-top: 150px;
+}
+
+.certificates {
+    margin-bottom: 50px;
+}
